@@ -1,0 +1,67 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+
+# Builds
+Build/
+Builds/
+*.apk
+*.aab
+*.unitypackage
+*.exe
+*.app
+*.x86
+*.x86_64
+
+# IDE / generated project files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.suo
+*.tmp
+*.unityproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archives and videos
+*.zip
+*.rar
+*.7z
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Temporary notes / AI drafts
+*prompt*
+*Prompt*
+*chatgpt*
+*ChatGPT*
+*codex-notes*
+*ai-draft*
+
+# Local verification / reference content not needed in repo
+unity-verify.log
+Screenshots/
+dino3d-master/
+Assets/ThirdParty/dino3d-master/**
+!Assets/ThirdParty/dino3d-master/
+!Assets/ThirdParty/dino3d-master/LICENSE
+!Assets/ThirdParty/dino3d-master/LICENSE.meta
+Assets/ThirdParty/dino3d-master.meta
